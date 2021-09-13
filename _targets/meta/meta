@@ -1,0 +1,25 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|iteration|parent|children|seconds|warnings|error
+Writeup|stem|970274e1456bb755|7ec7a05a581b1eed|4745aa592080ea1d|-2019501384|doc/Writeup.html*doc/Writeup.Rmd|t18878.5710208361s|abc2d954ab78caed|742134|file|vector|||2.73||
+Pop33_GenoFile|stem|ee60523c80a1e19d|0a7fc3c925276c19|4e3739ef91745af0|-1244822932|C:/Users/Jay/Desktop/Documents/R/OH_33_34_Manuscript/data/Pop33Genos.xlsx|t18878.5469261529s|e1f79ec8d4d4e203|16142014|file|vector|||0.01||
+Pop33GenoFile|stem|d77876f4823d2feb|b23a431c1f221c6d|3e5a56c7033b7210|-1244184264|C:/Users/Jay/Desktop/Documents/R/OH_33_34_Manuscript/data/Pop33_Geno_csvs.csv|t18878.6065081337s|b5696cd5427c1507|575616|file|vector|||2.75||
+Pop33PhenoFile|stem|0b10066bc160d012|dbc55ba60409d73c|81cae8560334c8bd|-1807687852|C:/Users/Jay/Desktop/Documents/R/OH_33_34_Manuscript/data/Pop33_Pheno_csvs.csv|t18878.6096236812s|7db7fea423a49a53|13495|file|vector|||0.1|NAs introduced by coercion|
+Pop33_GenoFile_raw|stem|ee60523c80a1e19d|0a7fc3c925276c19|4e3739ef91745af0|1448586374|C:/Users/Jay/Desktop/Documents/R/OH_33_34_Manuscript/data/Pop33Genos.xlsx|t18878.5469261529s|e1f79ec8d4d4e203|16142014|file|vector|||0.02||
+Pop34_GenoFile_raw|stem|916b58eac3d33bd2|ed9bfd42dbe62b92|4e3739ef91745af0|1045645454|C:/Users/Jay/Desktop/Documents/R/OH_33_34_Manuscript/data/OH34_geno.csv|t18867.7806303101s|d0d3c9838791ecb9|2575294|file|vector|||0.01||
+Pop34GenoFile_cross|stem|bf59facc364a178c|df98cbe643567e54|ea554b667d2d1c26|1659580989|C:/Users/Jay/Desktop/Documents/R/OH_33_34_Manuscript/data/Pop34_Geno_csvsr.csv|t18878.6222071517s|bdbd68607169d3ba|403300|file|vector|||1.09|Missing column names filled in X2 2, X3 3|
+Pop33Cross|stem|a40cb5cc29164954|f47e10f05d46ca64|a3d026b4752d6ba8|946969135||t18878.622215242s|d7c5b6ca4111e83d|65732|rds|vector|||0.64|Some markers at the same position on chr 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,23,24,25,26,27,29 use jittermap.|
+Pop34Cross|stem|7bdebb12b9db75bd|de0e47103002aec1|cf692e1696ab599a|1954237260||t18878.6222173157s|1b7be38471aac83b|47627|rds|vector|||0.14|Some markers at the same position on chr Gm02,Gm03,Gm04,Gm05,Gm06,Gm08,Gm10,Gm13,Gm14,Gm16,Gm17,Gm19,Gm20 use jittermap.|
+Pop33GenoFile_cross|stem|8002e5a2976ed701|fcf3ff2dcf7d9026|02c4f919f1015e28|1233407612|C:/Users/Jay/Desktop/Documents/R/OH_33_34_Manuscript/data/Pop33_Geno_csvs.csv|t18878.8486180625s|b5696cd5427c1507|575616|file|vector|||2.05||
+short_snp_name|function|cb96579cd759a2d2||||||||||||||
+clean_Pop33_phenos|function|2db3bd3c7853d13c||||||||||||||
+clean_Pop34_genos|function|8701c24c835a7fe5||||||||||||||
+clean_Pop33_genos|function|f8d4b8a00f5331cf||||||||||||||
+clean_Pop34_phenos|function|3871e6920c0c8d34||||||||||||||
+make_linkage_map_images|function|61514b718f0e17d2||||||||||||||
+PhenoFile|stem|0f9ebfdcdc77f9fb|e8007015193ba730|4e3739ef91745af0|888977101|C:/Users/Jay/Desktop/Documents/R/OH_33_34_Manuscript/data/FinalPhenos.xlsx|t18878.6095148423s|aaa4e559e04a22af|37361|file|vector|||0||
+Pop33_LinkageMap|stem|19114980bd958d3b|e15dc800c8117203|4e3739ef91745af0|888444260|C:/Users/Jay/Desktop/Documents/R/OH_33_34_Manuscript/data/OH33_LinkageMap.xlsx|t18878.8142922569s|90ae71eb32c85d07|51458|file|vector|||0||
+ManuscriptQTL|stem|6eafaf111f67fd5f|80f1f28c156b86c2|4e3739ef91745af0|-153453566|C:/Users/Jay/Desktop/Documents/R/OH_33_34_Manuscript/data/Manuscript_qtl_table.xlsx|t18878.6594257268s|3d7d07ea765e63d9|12156|file|vector|||0||
+Pop34_LinkageMap|stem|246199cf0027e9a4|fb622c9db943e075|4e3739ef91745af0|-954618957|C:/Users/Jay/Desktop/Documents/R/OH_33_34_Manuscript/data/OH 34 Linkage Map.xlsx|t18867.795260917s|7613e409502099c2|43831|file|vector|||0||
+PreliminaryQTL|stem|2efd0f77c5a6ead3|42e2907f15cd4bb6|4e3739ef91745af0|-1026734071|C:/Users/Jay/Desktop/Documents/R/OH_33_34_Manuscript/data/QTL Tables - Tentative.xlsx|t18871.6300941955s|4ab73748a34e99b1|28766|file|vector|||0||
+Pop34PhenoFile_cross|stem|2693b2ee59d24257|28b09f1ee7be86f7|4e429ff360225fb3|1909414592|C:/Users/Jay/Desktop/Documents/R/OH_33_34_Manuscript/data/Pop34_Pheno_csvsr.csv|t18878.6221650151s|bc9496d1ddebe05c|13882|file|vector|||0.06||
+Pop33PhenoFile_cross|stem|0b10066bc160d012|dbc55ba60409d73c|81cae8560334c8bd|1897163757|C:/Users/Jay/Desktop/Documents/R/OH_33_34_Manuscript/data/Pop33_Pheno_csvs.csv|t18878.6221661726s|7db7fea423a49a53|13495|file|vector|||0.08|NAs introduced by coercion|
+LinkageMapImages|stem|825a16277ad3a8b1|4cadba793066b734|4187e35bab4ba7de|-646318334||t18878.6706124191s||44|rds|vector|||0.43||attempt to select less than one element in integerOneIndex
