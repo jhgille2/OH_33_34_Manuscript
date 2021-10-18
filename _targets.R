@@ -156,6 +156,13 @@ tar_plan(
   
   ## Section: Writeup documents
   ##################################################
-  tar_render(Writeup, "doc/Writeup.Rmd")
+  tar_render(Writeup, "doc/Writeup.Rmd"), 
+  
+  # render the manuscript and then combine it with the table/phenotype distribution table files
+  tar_render(Manuscript, "doc/Manuscript.Rmd"), 
+  
+  tar_target(Merge_Manuscript, 
+             merge_manuscript_files(Writeup), 
+             format = "file")
 
 )

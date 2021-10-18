@@ -3,16 +3,6 @@ Pop33_GenoFile|stem|ee60523c80a1e19d|0a7fc3c925276c19|4e3739ef91745af0|-12448229
 Pop33GenoFile|stem|d77876f4823d2feb|b23a431c1f221c6d|3e5a56c7033b7210|-1244184264|C:/Users/Jay/Desktop/Documents/R/OH_33_34_Manuscript/data/Pop33_Geno_csvs.csv|t18878.6065081337s|b5696cd5427c1507|575616|file|vector|||2.75||
 Pop33PhenoFile|stem|0b10066bc160d012|dbc55ba60409d73c|81cae8560334c8bd|-1807687852|C:/Users/Jay/Desktop/Documents/R/OH_33_34_Manuscript/data/Pop33_Pheno_csvs.csv|t18878.6096236812s|7db7fea423a49a53|13495|file|vector|||0.1|NAs introduced by coercion|
 LinkageMapImages|stem|825a16277ad3a8b1|4cadba793066b734|4187e35bab4ba7de|-646318334||t18878.6706124191s||44|rds|vector|||0.43||attempt to select less than one element in integerOneIndex
-short_snp_name|function|cb96579cd759a2d2||||||||||||||
-add_past_literature|function|4bb1ed3b1a749234||||||||||||||
-clean_Pop33_phenos|function|2db3bd3c7853d13c||||||||||||||
-clean_Pop34_genos|function|8701c24c835a7fe5||||||||||||||
-save_merged|function|3fc7df897364e7c0||||||||||||||
-clean_Pop33_genos|function|f8d4b8a00f5331cf||||||||||||||
-clean_Pop34_phenos|function|3871e6920c0c8d34||||||||||||||
-clean_NewData|function|347e8d2c4b38ce23||||||||||||||
-read_all_data|function|34c2d65017a860f9||||||||||||||
-make_linkage_map_images|function|61514b718f0e17d2||||||||||||||
 LiteratureTable|stem|51ee8d03329d1a95|01e80d09eb7b4b06|4e3739ef91745af0|-195243538|C:/Users/Jay/Documents/R/Projects/OH_33_34_Manuscript/data/past_literature_files/input/ProtOilYieldLit.csv|t18883.7225690982s|3bbe91f33d6149cd|508698|file|vector|||0||
 Pop33_34_QTL|stem|2efd0f77c5a6ead3|cf7ccb5135d9bbd4|4e3739ef91745af0|-1701188161|C:/Users/Jay/Documents/R/Projects/OH_33_34_Manuscript/data/past_literature_files/input/qtl_tables.xlsx|t18883.7225690982s|4ab73748a34e99b1|28766|file|vector|||0||
 PhenoFile|stem|0f9ebfdcdc77f9fb|5336c91ed5b1dc65|4e3739ef91745af0|888977101|C:/Users/Jay/Documents/R/Projects/OH_33_34_Manuscript/data/rqtl_files/raw_input/FinalPhenos.xlsx|t18883.7192247865s|aaa4e559e04a22af|37361|file|vector|||0||
@@ -35,3 +25,15 @@ Pop34Cross|stem|7bdebb12b9db75bd|de0e47103002aec1|cf692e1696ab599a|1954237260||t
 Clean_New_QTL|stem|a0a82bd316a70301|72c21cf39cc8c0f9|7f431663224ac4f9|-324310649||t18883.7424656679s|93aed311a996b843|980|rds|vector|||0.01||
 LiteratureMerge|stem|a9e43aaaeda929e7|fba06767a4b6e3d8|a366331807e7ba45|1075143854||t18883.7424665914s|54e8706a315344b5|8796|rds|vector|||0.06||
 SaveMergedFile|stem|0aca62265824b1da|fe6aab1d0dd9ccb6|85b068ba0905afed|2117404901|C:/Users/Jay/Documents/R/Projects/OH_33_34_Manuscript/data/past_literature_files/output/LiteratureAdded.csv|t18883.7424670461s|9c2c102577f2a0fb|78041|file|vector|||0.03||
+short_snp_name|function|cb96579cd759a2d2||||||||||||||
+add_past_literature|function|4bb1ed3b1a749234||||||||||||||
+clean_Pop33_phenos|function|2db3bd3c7853d13c||||||||||||||
+clean_Pop34_genos|function|8701c24c835a7fe5||||||||||||||
+save_merged|function|3fc7df897364e7c0||||||||||||||
+clean_Pop33_genos|function|f8d4b8a00f5331cf||||||||||||||
+clean_Pop34_phenos|function|3871e6920c0c8d34||||||||||||||
+merge_manuscript_files|function|7cc1da8a62ebb04e||||||||||||||
+clean_NewData|function|347e8d2c4b38ce23||||||||||||||
+read_all_data|function|34c2d65017a860f9||||||||||||||
+make_linkage_map_images|function|61514b718f0e17d2||||||||||||||
+Manuscript|stem||f0a0d07284d118d1|4745aa592080ea1d|-256707290||t18904.5663821227s||0|file|vector|||0.5||Manuscript.docx is already edited. You must close the document in order to be able to write the file.

@@ -15,7 +15,8 @@ pacman::p_load(conflicted,
                readxl, 
                qtl, 
                janitor, 
-               magrittr)
+               magrittr, 
+               officer)
 
 # Conflict preferences
 conflict_prefer("filter", "dplyr")
